@@ -1,0 +1,5 @@
+Bundle-Name: sain-custom-shiping
+Bundle-SymbolicName: com.sain.custom.shiping
+Bundle-Version: 1.0.0
+Export-Package: com.sain.custom.shiping.api
+Web-ContextPath: /sain-custom-shiping
